@@ -1,8 +1,8 @@
 # Baily Bates' Portfolio
 
-Student at Full Sail University
-Bachelor's Web Development
-Graduating September 2025
+###Student at Full Sail University
+###Bachelor's Web Development
+###Graduating September 2025
 
 ## About Me
 
