@@ -1,8 +1,8 @@
 # Baily Bates' Portfolio
 
-###Student at Full Sail University
-###Bachelor's Web Development
-###Graduating September 2025
+### Student at Full Sail University
+**Bachelor's Web Development**
+*Graduating September 2025*
 
 ## About Me
 
@@ -16,11 +16,17 @@ enhance my knowleadge.
 
 ## Skills
 
-HTML
-CSS
-JavaScript
-Node.js
-Python
-Logo Design
-Photography
+**HTML**
+**CSS**
+**JavaScript**
+**Node.js**
+**Python**
+**Logo Design**
+**Photography**
 
+Please Check out my Github Page for displayed repo's
+
+## Contact
+
+Feel free to contact me at: [batesbailydev@mgmail.com]
+Or contact me on [LinkedIn](www.linkedin.com/in/baily-bates-53b4b0289).
