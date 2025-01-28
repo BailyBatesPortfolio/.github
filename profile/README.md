@@ -26,6 +26,9 @@ enhance my knowleadge.
 
 Please Check out my Github Page for displayed repo's
 
+## Displayed Projects
+**Blog - wdv-blog**
+
 ## Contact
 
 Feel free to contact me at: [batesbailydev@mgmail.com]
